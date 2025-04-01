@@ -23,20 +23,25 @@ I hold the following certifications:
 - **Atlassian Certified Associate: ACA-920: Confluence Essentials**
 - **Atlassian Certified Associate: ACA-900: Jira Software Essentials**
 
+
 ## Recommendations
 ---
 > “Miguel is an outstanding professional with a remarkable ability to lead and execute high-impact projects. He single-handedly drove a critical documentation project for one of our most important clients, defining the strategy and setting clear guidelines to ensure long-term usability. Beyond his technical expertise, he stands out for his exceptional soft skills, collaborative mindset, and strong commitment to team success. Without a doubt, he is someone any team would be lucky to have.”
+>
 > — [Alejandro Miguel, IT Business Manager at Capitole](https://www.linkedin.com/in/miguel-olmedo-morell/details/recommendations/?detailScreenTabIndex=0)
 
 ---
 > “Miguel is a great professional to work with. He is a very punctilious person that pays attention to details, often for very complex projects. He services clients always with excellence and expertise and thereby builds positive and trustful relationships. Miguel is a self-starter, eager to jump and help wherever necessary, as well as a true team player. Working with him is a real pleasure!”
-> - [Aileen Beyer, Team Lead Sales Development DACH at Personio](https://www.linkedin.com/in/miguel-olmedo-morell/details/recommendations/?detailScreenTabIndex=0)
+>
+> — [Aileen Beyer, Team Lead Sales Development DACH at Personio](https://www.linkedin.com/in/miguel-olmedo-morell/details/recommendations/?detailScreenTabIndex=0)
 
 ---
 > “I worked with Miguel under an extremely tight deadline, and he always remained extremely professional
 and calm. He faced having to re-write absolutely everything from scratch days before the actual publication, and he made it. I would truly love to work with him again, because I admired how he handled the pr
-> - [Paula Biedma, 2D Artist](https://www.linkedin.com/in/miguel-olmedo-morell/details/recommendations/?detailScreenTabIndex=0)
+>
+> — [Paula Biedma, 2D Artist](https://www.linkedin.com/in/miguel-olmedo-morell/details/recommendations/?detailScreenTabIndex=0)
 
 ---
 > “During the period we worked together, Miguel stood out as a highly self-motivated individual who was truly passionate about his work. He had an excellent ability to engage customers in the shop, and built good relationships with regulars. A pleasure to work with.”
-> - [Alick Bird, Data Scientist at Elsevier](https://www.linkedin.com/in/miguel-olmedo-morell/details/recommendations/?detailScreenTabIndex=0)
+>
+> — [Alick Bird, Data Scientist at Elsevier](https://www.linkedin.com/in/miguel-olmedo-morell/details/recommendations/?detailScreenTabIndex=0)
