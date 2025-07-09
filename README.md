@@ -12,9 +12,9 @@ I have published **academic essays** in humanities journals and given **universi
 
 I hold a **Bachelor's Degree in English Studies** and a **Master's Degree in Spanish Linguistics**. I’m now studying a **Microsoft IT Support Specialist Professional Certificate**. I have a **C2 English level** (full professional proficiency) certified by Cambridge, which I consolidated by living and working in the United Kingdom for 4 years. I also have an **A2 French level** (basic proficiency).
 
-I am well versed with the Microsoft Writing Style Guide, the Apple Style Guide and the Google Developer Documentation Style Guide. I have experience adhering to ISO standards 13485, 14971, 9001, 17100 and 27001, as well as the ASD-STE100 Simplified Technical English (STE) specification and HL7 and POCT1-A standards.
+I am well versed with the **Microsoft Writing Style Guide**, the Apple Style Guide and the **Google Developer Documentation Style Guide**. I have experience adhering to **ISO standards 13485**, **14971**, **9001**, **17100** and **27001**, as well as the **ASD-STE100 Simplified Technical English (STE)** specification and **HL7** and **POCT1-A standards**.
 
-I also have ample experience with Microsoft Office, workspaces like Confluence, Jira, MS Loop and SharePoint, languages such as HTML, CSS and XML, document version control with Git, and Content Management Systems like WordPress and Medium. To create visual elements, I mainly use Canva, Adobe Photoshop and Adobe InDesign.
+I also have ample experience with **Microsoft Office**, workspaces like **Confluence**, **Jira**, **MS Loop** and **SharePoint**, languages such as **HTML**, **CSS** and **XML**, **document version control with Git**, and **Content Management Systems** like **WordPress** and **Medium**. To create visual elements, I mainly use **Canva**, **Adobe Photoshop** and **Adobe InDesign**.
 
 Recently, I’ve been interested in AI, Large Language Models, Natural Language Processing and Prompt Engineering.
 
