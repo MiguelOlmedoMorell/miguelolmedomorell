@@ -1,3 +1,11 @@
+## Click on these icons to check my portfolio:
+
+[![Technical Docs](https://img.shields.io/badge/Technical%20Documentation-red)](https://github.com/MiguelOlmedoMorell/miguelolmedomorell/wiki/Technical-documentation)
+[![Essays & Conferences](https://img.shields.io/badge/Essays%20&%20Conferences-green)](https://github.com/MiguelOlmedoMorell/miguelolmedomorell/wiki/Academic-essays-&-conferences)
+[![Translations](https://img.shields.io/badge/Translations-blue)](https://github.com/MiguelOlmedoMorell/miguelolmedomorell/wiki/Translations)
+[![Press & Media](https://img.shields.io/badge/Press%20&%20Media-orange)](https://github.com/MiguelOlmedoMorell/miguelolmedomorell/wiki/Press-&-Media)
+
+
 ## Pleased to meet you!
 
 I’m Miguel Olmedo Morell, a Technical Writer with **12 years of experience writing, proofreading and translating** for companies, magazines, universities and professors.
