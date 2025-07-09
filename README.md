@@ -1,22 +1,22 @@
 ## Pleased to meet you!
 
-I’m Miguel Olmedo Morell, a professional with **12 years of experience writing, proofreading and translating** for companies, magazines, universities and professors.
+I’m Miguel Olmedo Morell, a Technical Writer with **12 years of experience writing, proofreading and translating** for companies, magazines, universities and professors.
 
-I started my career as a **Translator**, a field in which I’ve been working for **12 years**. Among others, I’ve translated life sciences articles for the newspaper IDEAL, digital media essays for MIT professors Henry Jenkins and Jesper Juul, and literary and marketing documents for Serialify, Grupo Planeta.
+I started my career as a **Translator**, a field in which I’ve been working for **12 years**. Among others, I’ve translated **life sciences articles** for the newspaper IDEAL, **digital media essays** for MIT professors Henry Jenkins and Jesper Juul, and **literary and marketing documents** for Serialify, Grupo Planeta.
 
 After moving to Barcelona, I worked as **Project Manager** for **4 years**. My first role was in the Medical Devices department in TransPerfect, where I performed administrative and technical tasks according to ISO regulations, and learned about risk management and documentation version control. I consolidated this knowledge and gained account management skills when I joined Welocalize’s financial, legal and marketing team.
 
-My journey as **Technical Writer and Documentation Manager** began **2 years ago**. It started in ERNI, where I created API documentation such as user manuals, release notes, internal documentation, etc., for a pharmaceutical client. After moving to Valladolid, I started working for Capitole Consulting on a fixed-term contract to create, sort, migrate and standardize the global documentation for the Workday department of a client in the security industry. Currently, I work as a freelance translator, proofreader and editor.
+My journey as **Technical Writer and Documentation Manager** began **3 years ago**. It started in ERNI, where I created API documentation such as user manuals, release notes, internal documentation, etc., for a pharmaceutical client. After moving to Valladolid, I started working for Capitole Consulting on a fixed-term contract to create, sort, migrate and standardize the global documentation for the Workday department of a client in the security industry. Currently, I work as a freelance translator, proofreader and editor.
 
 I have published **academic essays** in humanities journals and given **university lectures** on literature and digital media at the **IV and V International Congress of Myth Criticism** at the Universidad Complutense of Madrid. I’ve also written articles, news, interviews, etc., for magazines such as Culturamas, Meristation and Revista Manual. I’m the author of **three novels and a research book on video games** with the publisher Héroes de Papel.
 
-I hold a **Bachelor's Degree in English Studies** and a **Master's Degree in Spanish Linguistics**. I’m now studying a **Microsoft IT Support Specialist Professional Certificate**. I have a **C2 English level** (full professional proficiency) certified by Cambridge, which I consolidated by living and working in the United Kingdom for 4 years. I also have an **A2 French level** (basic proficiency).
+I hold a **Bachelor's Degree in English Studies** and a **Master's Degree in Spanish Linguistics**. I’m now studying a **Microsoft IT Support Specialist Professional Certificate**. I have a **C2 English level** (full professional proficiency) **certified by Cambridge**, which I consolidated by living and working in the United Kingdom for 4 years. I also have an **A2 French level** (basic proficiency).
 
 I am well versed with the **Microsoft Writing Style Guide**, the Apple Style Guide and the **Google Developer Documentation Style Guide**. I have experience adhering to **ISO standards 13485**, **14971**, **9001**, **17100** and **27001**, as well as the **ASD-STE100 Simplified Technical English (STE)** specification and **HL7** and **POCT1-A standards**.
 
 I also have ample experience with **Microsoft Office**, workspaces like **Confluence**, **Jira**, **MS Loop** and **SharePoint**, languages such as **HTML**, **CSS** and **XML**, **document version control with Git**, and **Content Management Systems** like **WordPress** and **Medium**. To create visual elements, I mainly use **Canva**, **Adobe Photoshop** and **Adobe InDesign**.
 
-Recently, I’ve been interested in AI, Large Language Models, Natural Language Processing and Prompt Engineering.
+Recently, I’ve been learning about AI, Large Language Models, Natural Language Processing and Prompt Engineering.
 
 I hold the following certifications:
 
